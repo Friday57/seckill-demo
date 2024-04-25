@@ -85,4 +85,9 @@ public class AccessLimitInterceptor implements HandlerInterceptor {
         }
         return itUserService.getUserByCookie(userTicket, request, response);
     }
+
+    public void merge(){
+        int a=0;
+        return ;
+    }
 }
