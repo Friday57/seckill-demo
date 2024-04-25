@@ -87,7 +87,7 @@ public class AccessLimitInterceptor implements HandlerInterceptor {
     }
 
     public void merge(){
-        int a=0;
+        int a=1;
         return ;
     }
 }
